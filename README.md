@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gideon
 - 👀 I’m interested all things data.
-- 🌱 I’m currently learning Data Analysis.
+- 🌱 Data Analysis newbie.
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 You can reach me on ithenumah@gmail.com
 
