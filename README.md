@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gideon
 - 👀 I’m interested all things data.
-- 🌱 Data Analysis newbie.
-- 💞️ I’m looking to collaborate on Data Analysis projects
+- 🌱 Data Analyst moving up to Data Scientist.
+- 💞️ Find joy beating insights out of data.
 - 📫 You can reach me on ithenumah@gmail.com
 
 <!---
